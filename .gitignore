@@ -17,6 +17,5 @@ Thumbs.db
 .idea/
 .vscode/
 
-# OpenAgents runtime state
-.openagent/state.json
-.openagent/events.jsonl
+# FreedomAgents runtime state
+.freedomagents/

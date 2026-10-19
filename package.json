@@ -1,0 +1,19 @@
+{
+  "name": "freedomagents",
+  "version": "0.0.1",
+  "description": "FreedomAgents — cross-harness agents that belong to you.",
+  "bin": {
+    "freedomagents": "bin/freedomagents.js",
+    "fa": "bin/freedomagents.js"
+  },
+  "scripts": {
+    "test": "node test/init.test.js && node test/create.test.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Obsucre777/FreedomAgents.git"
+  }
+}
